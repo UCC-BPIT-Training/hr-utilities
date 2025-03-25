@@ -36,7 +36,7 @@ const employee = {
 
 ```js
 console.log(introduceEmployee(employee));
-// 👋 Hello, I'm Jordan Rivera, a QA Analyst from the IT department.
+// 👋 Hello, I'm Pedro Penduko, a QA Analyst from the IT department.
 ```
 
 ---
@@ -80,7 +80,7 @@ console.log(listSkills(employee.skills));
 
 ```js
 console.log(summarizeEmployee(employee));
-// 👋 Hello, I'm Jordan Rivera, a QA Analyst from the IT department.
+// 👋 Hello, I'm Pedro Penduko, a QA Analyst from the IT department.
 // 🧠 Top Skills: JavaScript, Cypress, and Postman
 ```
 
